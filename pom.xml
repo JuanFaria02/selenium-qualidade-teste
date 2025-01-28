@@ -37,6 +37,13 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.5.1</version> <!-- Verifique a última versão disponível -->
         </dependency>
+        
+        <dependency>
+		    <groupId>ch.qos.logback</groupId>
+		    <artifactId>logback-classic</artifactId>
+		    <version>1.4.11</version> 
+		</dependency>
+
     </dependencies>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
